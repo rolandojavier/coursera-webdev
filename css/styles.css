@@ -1,0 +1,21 @@
+/*Header Styles*/
+
+.navbar-brand {
+	margin-bottom: 20px;
+}
+.navbar-brand h1 { /* Restaurant name */
+	margin: 0;	
+}
+#nav-list a {
+	text-align: center;
+	background-color: #DDD;
+}
+#nav-list a:hover {
+	background-color: #EEE;
+}
+
+#main-content p {
+	line-height: 1.5;
+	background-color: #EEE;
+	padding: 10px 10px 10px 10px;
+}
