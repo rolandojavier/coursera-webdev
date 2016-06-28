@@ -7,7 +7,6 @@
 	margin: 0;	
 }
 #nav-list a {
-	text-align: center;
 	background-color: #DDD;
 }
 #nav-list a:hover {
@@ -18,4 +17,5 @@
 	line-height: 1.5;
 	background-color: #EEE;
 	padding: 10px 10px 10px 10px;
+	height: 1200px;
 }
